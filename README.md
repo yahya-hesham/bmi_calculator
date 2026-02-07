@@ -9,11 +9,11 @@ A new Flutter project.# Flutter bmi calculator Detail Screen
 ## 📱 Preview
 
 <p align="center">
-  <img src="lib/screnShots/Screenshot 2026-02-07 052757.png" alt="Burger Mix Combo Preview" width="300">
+  <img src="lib/screnShots/main.png" alt="Burger Mix Combo Preview" width="300">
 </p>
 
 <p align="center">
-  <img src="lib/screnShots/Screenshot 2026-02-07 054542" alt="Burger Mix Combo Preview" width="300">
+  <img src="lib/screnShots/Result.png" alt="Burger Mix Combo Preview" width="300">
 </p>
 
 > **Note:** Replace the placeholder link above with the path to your actual screenshot (e.g., `lib/screnShots/Screenshot 2026-02-07 052757.png`) once you upload it to your repo.
