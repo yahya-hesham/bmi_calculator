@@ -62,5 +62,5 @@ This single-screen application focuses on a high-conversion UI/UX design, showca
 * `ThemeData`: Custom color palettes for food-based branding (Oranges, Reds, and Creams).
 
 ---
-*Created with ❤️ by [Your Name]*
+Yahya Hesham
 
